@@ -1,0 +1,7 @@
+
+.container .main #loading {
+	position: absolute;
+	top: 25%;
+	left: 40%;
+	z-index: 900;
+}
